@@ -1,5 +1,5 @@
 public class Cell {   //细胞类
-    private int x,y;  //细胞位置，x行y列
+    private int x,y;  //细胞位置，x行y列。
     private boolean isLive;  //细胞状态（true:存活  false:死亡）
 
     public Cell(){

@@ -3,6 +3,8 @@ public class World {
     private int nowGeneration;  //细胞代数
     private Cell[][] cell=new Cell[80][80];
 
+
+    //图像操纵界面
     public World(int lx,int ly){
         this.lx=lx;
         this.ly=ly;

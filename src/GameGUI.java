@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+//GUI界面
 public class GameGUI extends JFrame implements ActionListener {
     int lx,ly;
     private World world;
